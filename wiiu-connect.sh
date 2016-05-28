@@ -10,7 +10,7 @@ WLAN=wlan0
 
 # Paths
 WPA_SUPPLICANT=$HOME/Documents/drc-hostap/wpa_supplicant/wpa_supplicant
-WPA_SUPPLICANT_CONFIG=$HOME/Documents/drc-sim-keyboard/wpa_supplicant/connect-to-wii-u.conf
+WPA_SUPPLICANT_CONFIG=$HOME/Documents/drc-sim-keyboard/wpa_supplicant/connect-to-wiiu.conf
 
 # Leave these alone
 
