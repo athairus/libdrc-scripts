@@ -1,0 +1,1 @@
+python $HOME/Documents/drc-sim-keyboard/drc-sim.py
